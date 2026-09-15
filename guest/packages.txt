@@ -34,6 +34,7 @@ libnotify
 libsecret
 linux-aarch64
 linux-aarch64-headers
+man-db
 mesa
 mkinitcpio
 mpv
